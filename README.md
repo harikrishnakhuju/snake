@@ -35,11 +35,19 @@ cd snake-game
 python main.py
 
 snake-game/
+├── assets/
+│   ├── screenshot/        # Game screenshots or GIFs for README
+│   ├── audio/             # Sound effects (e.g., eat.wav, game_over.wav)
+│   └── graphics/          # Images (e.g., snake_body.png, apple.png)
 │
-├── main.py                # Main game file
-├── assets/                # (Optional) Images and sounds
-├── README.md              # This file
-└── ...
+├── code/
+│   ├── main.py            # Entry point (game loop starts here)
+│   ├── snake.py           # Snake class logic
+│   ├── apple.py           # Apple class logic
+│   └── setting.py         # Configuration (screen size, speed, etc.)
+│
+├── README.md              # GitHub readme with image, instructions
+
 
 
 ![Gameplay](./assets/gameplay.gif)
