@@ -33,7 +33,8 @@ pip install pygame
 git clone https://github.com/yourusername/snake-game.git
 cd snake-game
 python main.py
-
+```
+---
 snake-game/
 ├── assets/
 │   ├── screenshot/        # Game screenshots or GIFs for README
@@ -47,7 +48,6 @@ snake-game/
 │   └── setting.py         # Configuration (screen size, speed, etc.)
 │
 └── README.md              # GitHub readme with image, instructions
-```
 
 ## 🙋‍♂️ Author
 
