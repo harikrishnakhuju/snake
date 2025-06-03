@@ -1,6 +1,7 @@
 from settings import *
 from snake import Snake
 from apple import Apple
+from utils import resource_path
 
 class Main:
     def __init__(self):
@@ -22,8 +23,8 @@ class Main:
         self.game_active = False
 
         #sound/audio
-        self.crunch_sound = pygame.mixer.Sound(r'assets\audio\crunch.wav')
-        self.bg_music = pygame.mixer.Sound(r'assets\audio\Arcade.ogg')
+        self.crunch_sound = pygame.mixer.Sound(resource_path(r'assets\audio\crunch.wav'))
+        self.bg_music = pygame.mixer.Sound(resource_path(r'assets\audio\Arcade.ogg'))
         self.bg_music.set_volume(0.5)
         self.bg_music.play(-1)
 
