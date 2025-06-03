@@ -52,6 +52,30 @@ snake-game/
 └── README.md              # GitHub readme with image, instructions
 ```
 
+
+## Download & Run
+
+You can download the pre-built executable (`main.exe`) from the [Releases](https://github.com/harikrishnakhuju/snake/blob/main/dists) section of this repository.
+
+### Running the Game
+
+1. Download the `main.exe` file to your local machine.
+2. Double-click the `main.exe` file to launch the Snake game.
+3. Make sure the `assets` folder is located in the same directory as the executable if you run the one-folder build.  
+   *(For the one-file build, all assets are bundled inside the executable, so no extra files are needed.)*
+
+### Troubleshooting
+
+- If the game does not start, ensure that your system meets the requirements:
+  - Windows 10 or later
+  - No additional installation of Python or Pygame required
+- If you see errors related to missing assets, try downloading the full repository or check that the assets folder is properly included.
+
+---
+
+If you want to build the executable yourself, follow the instructions in the **Build** section.
+
+
 ## 🙋‍♂️ Author
 
 **Hari Krishna Khuju**
