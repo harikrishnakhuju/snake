@@ -47,7 +47,7 @@ snake-game/
 │   └── setting.py         # Configuration (screen size, speed, etc.)
 │
 └── README.md              # GitHub readme with image, instructions
----
+```
 
 ## 🙋‍♂️ Author
 
