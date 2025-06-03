@@ -55,7 +55,7 @@ snake-game/
 
 ## Download & Run
 
-You can download the pre-built executable (`main.exe`) from the [Releases](https://github.com/harikrishnakhuju/snake/blob/main/dists) section of this repository.
+You can download the pre-built executable (`main.exe`) from the [Releases](https://github.com/harikrishnakhuju/snake/tree/main/dist) section of this repository.
 
 ### Running the Game
 
