@@ -48,3 +48,12 @@ snake-game/
 │
 └── README.md              # GitHub readme with image, instructions
 
+
+## 🙋‍♂️ Author
+
+**Hari Krishna Khuju**
+
+- 🔗 [GitHub](https://github.com/harikrishnakhuju)
+- 🌐 [Portfolio](https://harikrishnakhuju.com.np/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hari-krishna-khuju-a2965a310/)
+
