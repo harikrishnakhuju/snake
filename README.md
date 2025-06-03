@@ -34,7 +34,8 @@ git clone https://github.com/yourusername/snake-game.git
 cd snake-game
 python main.py
 ```
----
+
+## 📂 Project Structure
 snake-game/
 ├── assets/
 │   ├── screenshot/        # Game screenshots or GIFs for README
