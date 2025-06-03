@@ -46,20 +46,5 @@ snake-game/
 │   ├── apple.py           # Apple class logic
 │   └── setting.py         # Configuration (screen size, speed, etc.)
 │
-├── README.md              # GitHub readme with image, instructions
-
-
-
-![Gameplay](./assets/gameplay.gif)
-
-
----
-
-Replace:
--  https://github.com/harikrishnakhuju
--  https://harikrishnakhuju.com.np/ 
-- Add any screenshot or GIF path if available  
-
-Let me know if you're using **JavaScript + HTML**, or want to deploy on **GitHub Pages**, and I’ll give a version for that!
-
+└── README.md              # GitHub readme with image, instructions
 
