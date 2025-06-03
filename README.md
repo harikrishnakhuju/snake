@@ -4,6 +4,14 @@ A simple and fun Snake Game built using Python and Pygame. This project is perfe
 
 ![Snake Game Screenshot](https://github.com/harikrishnakhuju/snake/blob/main/assets/snakeG1.png)
 
+## About the Game
+
+This is a classic Snake game developed in Python using the Pygame library.  
+In the game, you control a snake that moves around the screen eating apples. Each apple eaten makes the snake longer and increases your score.  
+Avoid colliding with the walls or the snake’s own body, or the game will end.  
+The objective is to grow the longest snake possible and challenge yourself to beat your high score!  
+Simple, fun, and a great way to practice programming fundamentals.
+
 ---
 
 ## 🎮 Features
