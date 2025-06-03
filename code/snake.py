@@ -19,7 +19,7 @@ class Snake:
 
     def import_surfs(self):
         surf_dict = {}
-        for folder_path, _, image_names in walk(r'graphics\snake'):
+        for folder_path, _, image_names in walk(r'assets\graphics\snake'):
             for image_name in image_names:
                 full_path = join(folder_path, image_name)
                 surface = pygame.image.load(full_path).convert_alpha()
