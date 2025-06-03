@@ -2,7 +2,7 @@
 
 A simple and fun Snake Game built using Python and Pygame. This project is perfect for beginners to understand game loops, keyboard input handling, and collision detection.
 
-![Snake Game Screenshot](https://your-image-url.com/screenshot.png)
+![Snake Game Screenshot](https://github.com/harikrishnakhuju/snake/blob/main/assets/snakeG1.png)
 
 ---
 
